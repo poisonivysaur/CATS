@@ -28,8 +28,10 @@ export const Diagnostics = require('Diagnostics');
 const microphone = Scene.root.find('Microphone');
 Diagnostics.log('mic test: ' + microphone);
 
+
 // To access class properties
 // const directionalLightIntensity = directionalLight.intensity;
 
 // To log messages to the console
 Diagnostics.log('Console message logged from the script.');
+

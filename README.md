@@ -1,5 +1,9 @@
 # CATS
 Children Assistant to Tell Stories (CATS). A cute companion to tell bed time stories to kids.
+https://youtu.be/lAQgH3bdj7Q
+
+## Try it out
+https://instagram.com/a/r/?effect_id=2806648022754425&ch=NzU0MDk4YThkNzk4MWYzZjc3ZWI5NjczYWY2ZWIzZDU%3D
 
 ## Inspiration
 I got the idea of a storytelling companion from one of my undergraduate colleague's thesis which discusses about a chat bot that tells stories to children and at the same time learns and converses with them. Although my submission is only an effect that reads a story based on a simple user interaction and not an actual chat bot (e.g. Google Home), I am inspired with the interactive possibilities that AR can bring in the future.
